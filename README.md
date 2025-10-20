@@ -1,5 +1,5 @@
 # Chainlist
-A list of EVM-based chains that also allows you to add chains to your favorite Web3 wallet. An alternative to the closing chainlist.org. 
+A list of EVM-based chains that also allows you to add chains to your favorite Web3 wallets. An alternative to the closing chainlist.org. 
 
 Uses the data from https://github.com/ethereum-lists/chains
 
